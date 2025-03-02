@@ -10,7 +10,7 @@ This is a modern [Next.js](https://nextjs.org) 15+ project template featuring:
 
 ## Prerequisites
 
-- Node.js 18.17 or later
+- Node.js 15 or later
 - pnpm (recommended package manager)
 - A Clerk account for authentication
 - PostgreSQL database (we use Neon.tech)
