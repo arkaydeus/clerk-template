@@ -11,7 +11,7 @@
     "db:migrate": "npx drizzle-kit migrate --config drizzle.config.ts"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.12.2",
+    "@clerk/nextjs": "^6.23.3",
     "@neondatabase/serverless": "^0.10.4",
     "drizzle-orm": "^0.40.0",
     "next": "15.2.0",
